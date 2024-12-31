@@ -45,7 +45,7 @@ Kawai-Converter is a powerful yet elegant tool designed to bridge the gap betwee
 
 ```bash
 # Clone this repository
-git clone https://github.com/YourUsername/Kawai-Converter-ANKI-notes-to-Excel.git
+git clone https://github.com/Bifenzine/Kawai-Converter-ANKI-notes-to-Excel.git
 
 # Navigate to the project directory
 cd Kawai-Converter-ANKI-notes-to-Excel
