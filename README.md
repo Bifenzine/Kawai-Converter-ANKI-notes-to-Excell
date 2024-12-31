@@ -105,7 +105,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 <div align="center">
 
-Made with ❤️ by [Your Name]
+Made with ❤️ by [Bifenzine Mohamed]
 
 ⭐ Star us on GitHub — it helps!
 
@@ -116,6 +116,6 @@ Made with ❤️ by [Your Name]
 <div align="center">
 
 📫 **Contact**
-[Create Issue](https://github.com/YourUsername/Kawai-Converter-ANKI-notes-to-Excel/issues) • [Send Email](mailto:your.email@example.com)
+[Create Issue](https://github.com/Bifenzine/Kawai-Converter-ANKI-notes-to-Excel/issues) • [Send Email](bifenzinemohamed7@gmail.com)
 
 </div>
