@@ -20,6 +20,8 @@
 
 Kawai-Converter is a powerful yet elegant tool designed to bridge the gap between ANKI's flashcard system and Excel's data management capabilities. Built with modern Python technologies, it offers a seamless conversion experience through an intuitive graphical interface.
 
+![](images/kawaiconverter.PNG)
+
 ## ✨ Features
 
 <div align="center">
